@@ -38,11 +38,11 @@ Plugin in Better Battlelog's [Forum](https://getbblog.com/en/board/post/126353) 
 ## ☰ Images:
 Server Browser (BF3 / BF4 / BFH)
 
-![Server Browser preview](../master/images/server_browser_preview.png "Server Browser preview")
+![Server Browser preview](../master/images/server_browser_preview.PNG "Server Browser preview")
 
 Server Browser Popup Modal (BF3 / BF4 / BFH)
 
-![Popup Modal preview](../master/images/popup_modal_preview.png "Popup Modal preview")
+![Popup Modal preview](../master/images/popup_modal_preview.PNG "Popup Modal preview")
 
 
 ## ☰ Nerd Stuff : 
