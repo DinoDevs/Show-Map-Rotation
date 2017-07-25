@@ -75,4 +75,4 @@ Server Browser Popup Modal (BF3 / BF4 / BFH)
 | |First release|
 
 Bugs:
-BF3: current map cannot always be specified (BF3 set as current every map based on title, so if you play metro, and the map rotations is 3 metro all are set as current)|
+BF3: current map cannot always be specified (BF3 set as current every map based on title, so if you play metro, and the map rotations is 3 metro all are set as current)
