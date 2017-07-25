@@ -55,7 +55,7 @@ Server Browser Popup Modal (BF3 / BF4 / BFH)
 |v 1.5|(26.9.2014)|
 | |Style fixes (on style errors caused by bblog v4.5)|
 |v 1.4|(12.09.2014)|
-| |Several fixes pointed out by BrainFooLong (http://getbblog.com/en/board/post/126815)|
+| |Several fixes [pointed out by BrainFooLong](http://getbblog.com/en/board/post/126815)|
 | |Quality code fixes|
 | |Added minified version of the script|
 |v 1.3|(07.09.2014)|
