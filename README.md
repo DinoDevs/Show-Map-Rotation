@@ -48,21 +48,31 @@ Server Browser Popup Modal (BF3 / BF4 / BFH)
 ## ☰ Nerd Stuff : 
 |Version | Plugin Changelog|
 |:------:|:----------------|
-|v 1.7 (27.06.2016)|BFH support added|
-|v 1.6 (04.09.2015)|CPU overload bug found and fixed|
-|v 1.5 (26.9.2014)|Style fixes (on style errors caused by bblog v4.5)|
-|v 1.4 (12.09.2014)|Several fixes pointed out by BrainFooLong (http://getbblog.com/en/board/post/126815)|
+|v 1.7|(27.06.2016)|
+| |BFH support added|
+|v 1.6|(04.09.2015)|
+| |CPU overload bug found and fixed|
+|v 1.5|(26.9.2014)|
+| |Style fixes (on style errors caused by bblog v4.5)|
+|v 1.4|(12.09.2014)|
+| |Several fixes pointed out by BrainFooLong (http://getbblog.com/en/board/post/126815)|
 | |Quality code fixes|
 | |Added minified version of the script|
-|v 1.3 (07.09.2014)|Rewrited bblog import code|
+|v 1.3|(07.09.2014)|
+| |Rewrited bblog import code|
 | |Also works on favourites & history|
 | |CSS optimizations|
 | |Added BF3 support|
 | |Fixed chat bug|
-|v 1.2 (06.09.2014)|Map rotation slideshow on image click|
-|v 1.1 (05.09.2014)|Firefox images fix|
+|v 1.2|(06.09.2014)|
+| |Map rotation slideshow on image click|
+|v 1.1|(05.09.2014)|
+| |Firefox images fix|
 | |images optimizations|
 | |ajax fixes|
 | |css improvements|
-|v 1.0 (04.09.2014)|First release|
-|Bugs|BF3: current map cannot always be specified (BF3 set as current every map based on title, so if you play metro, and the map rotations is 3 metro all are set as current)|
+|v 1.0|(04.09.2014)|
+| |First release|
+
+Bugs:
+BF3: current map cannot always be specified (BF3 set as current every map based on title, so if you play metro, and the map rotations is 3 metro all are set as current)|
